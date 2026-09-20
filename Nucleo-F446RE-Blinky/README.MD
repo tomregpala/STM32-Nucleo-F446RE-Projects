@@ -45,7 +45,7 @@ while (1)
 2. Select this folder and leave "Copy projects into workspace" unchecked.
 3. Build (hammer icon), then Run.
 
-The LED should blink twice per second.
+The LED should blink once per second.
 
 ## What I learned
 
