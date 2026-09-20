@@ -1,0 +1,16 @@
+# Build output
+Debug/
+Release/
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.su
+*.d
+*.list
+*.cyclo
+
+# IDE / workspace state
+.metadata/
+RemoteSystemsTempFiles/
