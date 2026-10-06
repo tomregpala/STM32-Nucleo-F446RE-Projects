@@ -8,3 +8,4 @@ Learning projects for the NUCLEO-F446RE using STM32CubeMX and STM32CubeIDE 2.2.0
 | ButtonLED | Toggle the LED with the user button |
 | UARTHelloWorld | Transmits HelloWorld! to a PuTTY terminal |
 | Hardware Interrupt | Uses on-chip timers to send an interrupt signal LED-toggle |
+| TempSensor | Reads the internal temperature sensor via ADC and print it over UART once per second |
